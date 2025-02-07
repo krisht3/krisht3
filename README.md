@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I’m currently an undergraduate, pursuing computer science degree.
+🌱 I’m currently learning GitHub, AIML and my designated course.
+👯 I’m looking to collaborate on open source projects.
+🤔 I’m looking for help with building my own projects.
+
+- 📫 How to reach me: krish.tiwari.aiml21@ggits.net
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ...
